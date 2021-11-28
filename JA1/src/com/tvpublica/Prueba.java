@@ -15,6 +15,7 @@ public class Prueba {
 			e.getCause();
 		}
 		h.start();
+		System.out.println("què");
 	
 		
 		
